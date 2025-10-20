@@ -1,4 +1,4 @@
-# CƠ BẢN VỀVỀ MARKDOWN
+# CƠ BẢN VỀ MARKDOWN
 ## Markdown là gì về bản chất? ##
 **Markdown** là một ngôn ngữ đánh dấu nhẹ để:
 - Giúp viết văn bản có định dạng
@@ -52,4 +52,5 @@ Các mục này em sẽ tìm hiểu thêm ạ!!!
 Hoặc có thể cách ra 1 dòng đơn thuần
 ## Checklist 
 - [x] Đã hoàn thành
+
 - [] Chưa hoàn thành
